@@ -1,0 +1,25 @@
+{
+  "name": "knex-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzykPringle/knex-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IzykPringle/knex-lesson/issues"
+  },
+  "homepage": "https://github.com/IzykPringle/knex-lesson#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "knex": "^2.4.2",
+    "pg": "^8.10.0"
+  }
+}
